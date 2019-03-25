@@ -1,0 +1,4 @@
+#Thu Jan 24 20:27:15 CST 2019
+base.0=/Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/HumControlPay/HumControlPay/accessibility/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex

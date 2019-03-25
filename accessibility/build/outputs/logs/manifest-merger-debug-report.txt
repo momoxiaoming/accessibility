@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:6:22-65
+application
+ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:8:5-30:19
+	android:supportsRtl
+		ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:11:9-41
+	tools:ignore
+		ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:15:9-48
+	android:roundIcon
+		ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:14:9-40
+service#assist.auto.com.accessbilitymanager.service.AutoCoreService
+ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:18:9-28:19
+	android:permission
+		ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:20:13-79
+	android:name
+		ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:19:13-87
+intent-filter#action:name:android.accessibilityservice.AccessibilityService
+ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:21:13-23:29
+action#android.accessibilityservice.AccessibilityService
+ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:22:17-92
+	android:name
+		ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:22:25-89
+meta-data#android.accessibilityservice
+ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:25:13-27:72
+	android:resource
+		ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:26:17-60
+service#assist.auto.com.accessbilitymanager.service.TimerService
+ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:29:9-92
+	android:name
+		ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml:29:18-89
+uses-sdk
+INJECTED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml
+INJECTED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml
+INJECTED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml
+INJECTED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangxiaoming/momoxiaoming_Developer/android_good_study/obj/2019/AccessBilityManager/accessibility/src/main/AndroidManifest.xml
